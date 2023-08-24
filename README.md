@@ -45,12 +45,14 @@ En la terminal, recibirás un mensaje de *Expo* que te proporcionará diferentes
 A continuación, podrás darle un vistazo a aplicación:
 
 ####
+
+[Hotels.webm](https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/7cb13473-fcdf-42a7-a06d-1159fc445a34)
 <div id="header" align="center">
 <img alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
        <hr/>
 </div>
 
-[Hotels.webm](https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/7cb13473-fcdf-42a7-a06d-1159fc445a34)
+
 
 ## Desarrollado por 👩‍💻
 
