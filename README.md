@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<img
-       width="300" alt="APP Logo" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" />
+       <img width="300" alt="APP Logo" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" />
        <hr/>
 </div>
 
@@ -46,16 +45,12 @@ En la terminal, recibirás un mensaje de *Expo* que te proporcionará diferentes
 A continuación, podrás darle un vistazo a aplicación:
 
 ####
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
-    <img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-      
-  </div>
+<div id="header" align="center">
+<img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
+       <hr/>
 </div>
 
-[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
+[Hotels.webm](https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/7cb13473-fcdf-42a7-a06d-1159fc445a34)
 
 ## Desarrollado por 👩‍💻
 
