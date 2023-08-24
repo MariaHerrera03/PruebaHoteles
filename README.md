@@ -1,9 +1,9 @@
-#   
-<img src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" alt="APP Logo" width="300" align="left" style="margin-right: 20px;">
-  <p>
-
-## Descripción 🏨
-
+<div id="header" align="center">
+<img
+       width="300" align="" src="https://user-images.githubusercontent.com/114118697/225444952-bbe51088-9f2a-4f47-8d95-5d4332a1b78e.png" />
+       <hr/>
+</div>
+##
 **Hotels** es una aplicación sencilla que funciona como un práctico directorio de hoteles, diseñada para satisfacer los requisitos de una prueba técnica. Está compuesta por un *FrontEnd* responsive que presenta detalles básicos en su interfaz, y se integra con una API desarrollada en el *BackEnd*.
 
 ## BackEnd 📲
