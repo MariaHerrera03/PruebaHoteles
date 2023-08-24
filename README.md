@@ -32,7 +32,7 @@ La aplicación permite visualizar los diferentes hoteles en forma de tarjetas (c
 ###
 **Pasos para la ejecución del FrontEnd:**
 
-Después de clonar el repositorio, dirígete a la carpeta *"BackEnd"* y ejecuta los siguientes comandos:
+Después de clonar el repositorio, desde la carpeta principal ejecuta los siguientes comandos:
 
 1. Ejecuta *"npm i"* para instalar las dependencias.
 2. Ejecuta "npx expo start" para iniciar la aplicación.
