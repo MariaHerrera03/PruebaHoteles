@@ -51,9 +51,7 @@ A continuación, podrás darle un vistazo a aplicación:
     <img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
   </div>
   <div style="flex: 1; padding-left: 10px;">
-         <video width="300" controls>
-           <source src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.webm" type="video/webm">
-         </video>
+         <iframe width="560" height="315" src="https://youtube.com/shorts/AC-lxJ-wfGE?feature=share"></iframe>
   </div>
 </div>
 
