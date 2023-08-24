@@ -52,7 +52,7 @@ A continuación, podrás darle un vistazo a aplicación:
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <video width="300" controls>
-      <source src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.mp4" type="video/mp4">
+      <source src="[https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.mp4](https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.webm)" type="video/mp4">
     </video>
   </div>
 </div>
