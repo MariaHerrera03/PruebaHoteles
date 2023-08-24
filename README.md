@@ -46,7 +46,7 @@ A continuación, podrás darle un vistazo a aplicación:
 
 ####
 <div id="header" align="center">
-<img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
+<img alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
        <hr/>
 </div>
 
