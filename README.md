@@ -53,7 +53,6 @@ A continuación, podrás darle un vistazo a aplicación:
   <div style="flex: 1; padding-left: 10px;">
     <video width="300" controls>
       <source src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.mp4" type="video/mp4">
-      Tu navegador no soporta la reproducción de videos.
     </video>
   </div>
 </div>
