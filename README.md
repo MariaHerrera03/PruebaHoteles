@@ -51,9 +51,12 @@ A continuación, podrás darle un vistazo a aplicación:
     <img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
   </div>
   <div style="flex: 1; padding-left: 10px;">
-       [Hotels.webm](https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/ab953fe8-489b-4471-8b87-e90b7b43a8de)
+       
   </div>
 </div>
+
+[Hotels.webm](https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/da2484ac-6aeb-47f1-a15e-81635ca84c16)
+
 
 ## Desarrollado por 👩‍💻
 
