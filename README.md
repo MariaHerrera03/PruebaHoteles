@@ -51,7 +51,7 @@ A continuación, podrás darle un vistazo a aplicación:
     <img width="300" alt="App Screenshot" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels(Responsive).png?raw=true">
   </div>
   <div style="flex: 1; padding-left: 10px;">
-         <iframe width="560" height="315" src="https://youtube.com/shorts/AC-lxJ-wfGE?feature=share"></iframe>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/AC-lxJ-wfGE?short=1"></iframe>
   </div>
 </div>
 
