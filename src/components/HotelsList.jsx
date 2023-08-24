@@ -7,11 +7,10 @@ import useFilteredHotels from "../hooks/useFilteredHotels";
 const HotelsList = () => {
 
     const { filteredHotels, handleFilter } = useFilteredHotels();
-    const [filterValue, setFilterValue] = useState("");
 
     useEffect(() => {
-        handleFilter(filterValue);
-    }, [filterValue]);
+        handleFilter("");
+    }, []);
 
 
     return (
@@ -23,9 +22,9 @@ const HotelsList = () => {
             <TextInput style={styles.bar}
                 placeholder="Busqueda por nombre"
                 placeholderTextColor="#fef4f2"
-                onChangeText={(text) => (setFilterValue(text))}/>
-            <FlatList style={styles.list}
-                data={filterValue === "" ? filteredHotels : filteredHotels}
+                onChangeText={handleFilter}/>
+            <FlatList
+                data={filteredHotels}
                 renderItem={({ item: hotel }) => <HotelsCard {...hotel} />}>
             </FlatList>
         </View>
@@ -63,10 +62,6 @@ const styles = StyleSheet.create({
         paddingTop: 4,
         color: '#fef4f2',
         borderRadius: 10,
-    },
-
-    list: {
-        marginBottom: 20,
     },
 })
 
