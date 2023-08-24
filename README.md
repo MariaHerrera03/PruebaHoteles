@@ -52,6 +52,10 @@ A continuación, podrás darle un vistazo a aplicación:
   </div>
   <div style="flex: 1; padding-left: 10px;">
  
+
+https://github.com/MariaHerrera03/PruebaHoteles/assets/109182712/53482cd5-13aa-4fff-a712-54fdbaca8053
+
+
   </div>
 </div>
 
