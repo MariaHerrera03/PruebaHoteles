@@ -1,0 +1,18 @@
+###
+GET http://localhost:9000/api/hotel
+
+###
+POST http://localhost:9000/api/hotels
+Content-Type: application/json
+
+{
+    "name": "Mandarin Oriental",
+    "location": "Bangkok, Tailandia",
+    "rating": 4.9,
+    "value": 1.000,
+    "description": "Serenidad junto al río",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236665735.jpg?k=4c3f6d75164608eb834404cd231958eef074346113854124f0bf1c68dc029201&o=&hp=1",
+    "website": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river"
+}
+
+
