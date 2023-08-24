@@ -1,11 +1,10 @@
-# Hotels (technical test) 🏨
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" alt="APP Logo" width="100" align="left" style="margin-right: 20px;">
+#   
+<img src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" alt="APP Logo" width="300" align="left" style="margin-right: 20px;">
   <p>
-    <strong>Hotels</strong> es una aplicación sencilla que funciona como un práctico directorio de hoteles, diseñada para satisfacer los requisitos de una prueba técnica. Está compuesta por un <em>FrontEnd</em> responsive que presenta detalles básicos en su interfaz, y se integra con una API desarrollada en el <em>BackEnd</em>.
-  </p>
-</div>
+
+## Descripción 🏨
+
+**Hotels** es una aplicación sencilla que funciona como un práctico directorio de hoteles, diseñada para satisfacer los requisitos de una prueba técnica. Está compuesta por un *FrontEnd* responsive que presenta detalles básicos en su interfaz, y se integra con una API desarrollada en el *BackEnd*.
 
 ## BackEnd 📲
 
