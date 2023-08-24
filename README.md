@@ -43,6 +43,7 @@ En la terminal, recibirás un mensaje de *Expo* que te proporcionará diferentes
 **Se recomienda usar el lector de códigos QR desde la aplicación móvil de Expo para una experiencia óptima.
 ## Vista previa 🖼️
 A continuación, podrás darle un vistazo a aplicación:
+Da clic en *"Hotels.webm"* para ver un video corto con la demo.
 
 ####
 
