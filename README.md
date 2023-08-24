@@ -1,5 +1,5 @@
 <div id="header" align="center">
-       <img width="300" alt="APP Logo" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" />
+       <img width="250" alt="APP Logo" src="https://github.com/MariaHerrera03/ImageBank/blob/main/Otros/Hotels.png?raw=true" />
        <hr/>
 </div>
 
