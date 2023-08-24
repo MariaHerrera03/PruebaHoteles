@@ -21,7 +21,7 @@ Después de clonar el repositorio, dirígete a la carpeta *"BackEnd"* y ejecuta 
 
 Si todo funciona correctamente, verás los siguientes mensajes en la consola:
 
-*🚀 Servidor escuchando en el puerto 9000 | Conexión con Atlas OK*
+*🚀 Server listening on port 9000 | Connection to Atlas OK*
 
 ## FrontEnd 📱
 
